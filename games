@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JOSHIS Gaming Hub</title>
+    <link rel="stylesheet" href="styles/dark-theme.css">
+</head>
+<body class="dark-mode">
+    <nav>
+        <ul>
+            <li><a href="https://www.populardoodlegames.com">Popular Doodle Games</a></li>
+            <li><a href="https://www.unblockedgames77.com">Unblocked Games 77</a></li>
+            <li><a href="https://www.ezclasswork.com">EZ Classwork</a></li>
+            <li><a href="https://www.unblocked2026.com">Unblocked 2026</a></li>
+            <li><a href="https://www.classroom6x.com">Classroom 6x</a></li>
+            <li><a href="https://www.yoshijunior.com">Yoshi Junior</a></li>
+            <li><a href="https://www.coolmathgames.com/tiny-fishing">Cool Math Games Tiny Fishing</a></li>
+            <li><a href="https://scratch.mit.edu/projects/project1">Scratch Project 1</a></li>
+            <li><a href="https://scratch.mit.edu/projects/project2">Scratch Project 2</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>Welcome to the JOSHIS Gaming Hub</h1>
+        <p>Enjoy our collection of embedded games!</p>
+        <!-- Embed the gaming sites as iframes or other means -->
+        <iframe src="https://www.populardoodlegames.com" title="Popular Doodle Games"></iframe>
+        <iframe src="https://www.unblockedgames77.com" title="Unblocked Games 77"></iframe>
+        <iframe src="https://www.ezclasswork.com" title="EZ Classwork"></iframe>
+        <iframe src="https://www.unblocked2026.com" title="Unblocked 2026"></iframe>
+        <iframe src="https://www.classroom6x.com" title="Classroom 6x"></iframe>
+        <iframe src="https://www.yoshijunior.com" title="Yoshi Junior"></iframe>
+        <iframe src="https://www.coolmathgames.com/tiny-fishing" title="Cool Math Games Tiny Fishing"></iframe>
+        <iframe src="https://scratch.mit.edu/projects/project1" title="Scratch Project 1"></iframe>
+        <iframe src="https://scratch.mit.edu/projects/project2" title="Scratch Project 2"></iframe>
+    </main>
+    <footer>
+        <p>&copy; 2026 JOSHIS Gaming Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
